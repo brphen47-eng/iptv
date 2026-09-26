@@ -175,8 +175,7 @@ https://live.fptplay53.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1
 #EXTINF:-1 tvg-id="HTVCPlus.vn" tvg-name="HTVC Plus" tvg-logo="" group-title="HTVC",HTVC Plus
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv1/${start}/${offset}", HTV1 - Đài PTTH Thành Phố Hồ Chí Minh
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=190
+https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/a0/07/73/39/9e/e6/a0739-phtv2hd-channel-unkn.png" catchup="append" catchup-days="6" catchup-source="https://api.vthanhtivi.pw/v1/dvr/hplus/htv2-hd-2669/${start}/${offset}", HTV2 - Vie Channel
 https://dethich.pw/htv2/index.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/HTV3.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV3 - Đài PTTH Thành Phố Hồ Chí Minh
