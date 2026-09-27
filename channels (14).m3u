@@ -49,6 +49,7 @@ https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_1_paid/live/asiad_1
 #EXTINF:-1 tvg-id="VTVGo.Live2" tvg-name="VTVGo - Live Event 2 HD" tvg-logo="" group-title="Vietnam TV / Live",VTVGo - Live Event 2 HD
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_2_paid/live/asiad_2_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="costream" tvg-name="co-stream" tvg-logo="" group-title="Co-Stream",Xôi Lạc ii
+https://live2.zundrixmediapipeline.com/live/channel5.m3u8
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:NO
