@@ -50,20 +50,9 @@ https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_1_paid/live/asiad_1
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_2_paid/live/asiad_2_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="costream" tvg-name="co-stream" tvg-logo="" group-title="Co-Stream",Xôi Lạc ii
 https://live2.zundrixmediapipeline.com/live/channel5.m3u8
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-ALLOW-CACHE:NO
-#EXT-X-MEDIA-SEQUENCE:1790491065
-#EXT-X-TARGETDURATION:4
-#EXTINF:4,
-channel5-1790491065.ts?txspiseq=106872526107658547974
-#EXTINF:4,
-channel5-1790491066.ts?txspiseq=106872526107658547974
-#EXTINF:4,
-channel5-1790491067.ts?txspiseq=106872526107658547974
 
 #EXTINF:-1 tvg-id="costream" tvg-name="co-stream" tvg-logo="" group-title="Co-Stream",Xôi Lạc ii
-https://live2.zundrixmediapipeline.com/live/channel19.m3u8
+
 
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
